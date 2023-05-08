@@ -1,0 +1,17 @@
+{
+    "campers": [{
+            "idUsuario": "2",
+            "nombre": "JAHIR ESTEBANOCHOA ",
+            "carrera": "TECNOLOGIA EN OPERACION Y MANTENIMIENTO ELECTROMECANICO",
+            "sexo": "M",
+            "jornada": "NOCTURNA"
+        },
+        {
+            "idUsuario": "3",
+            "nombre": "BRAYAN SNEYDER MARTINEZ ",
+            "carrera": "TECNOLOGIA EN DESARROLLO DE SISTEMAS INFORMATICOS",
+            "sexo": "M",
+            "jornada": "DIURNA"
+        }
+    ]
+}

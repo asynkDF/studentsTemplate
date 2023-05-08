@@ -1,0 +1,19 @@
+[{
+        "idUsuario": "2",
+        "imagen": "jose.jpg",
+        "cedula": "1005108573",
+        "nombre": "JAHIR ESTEBANOCHOA ",
+        "carrera": "TECNOLOGIA EN OPERACION Y MANTENIMIENTO ELECTROMECANICO",
+        "sexo": "M",
+        "jornada": "NOCTURNA"
+    },
+    {
+        "idUsuario": "3",
+        "imagen": "juan.jpg",
+        "cedula": "1005108582",
+        "nombre": "BRAYAN SNEYDER MARTINEZ ",
+        "carrera": "TECNOLOGIA EN DESARROLLO DE SISTEMAS INFORMATICOS",
+        "sexo": "M",
+        "jornada": "DIURNA"
+    }
+]
